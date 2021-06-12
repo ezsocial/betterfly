@@ -24,7 +24,7 @@ El desarrollador puede usar lo que quiera de acuerdo a su comodidad._
 ![Screen1](https://github.com/ezsocial/betterfly/blob/main/images/Screenshot_20210612_144100.png)
 
 ## Aqui para bajar la apk e instalarla en modo de PRUEBA en tu Smartphone 🚀
-[![Download](https://api.bintray.com/packages/unsplash/unsplash-photopicker-android/com.unsplash.pickerandroid.photopicker/images/download.svg) ](https://github.com/ezsocial/recyclerviewUnsplash/blob/main/pruebatecnica.apk)
+[![Download](https://api.bintray.com/packages/unsplash/unsplash-photopicker-android/com.unsplash.pickerandroid.photopicker/images/download.svg) ](https://github.com/ezsocial/betterfly/blob/main/betterflyDEMO.apk)
 ### Pre-requisitos 📋
 
 _plugins {
