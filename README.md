@@ -18,11 +18,10 @@ ver el código (y compilarlo si quieren).
 exigencias en cuanto a herramientas o librerías a utilizar.
 El desarrollador puede usar lo que quiera de acuerdo a su comodidad._
 
-## Comenzando 🚀
+## Screenshots 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+![Screen1](https://githubcom/ezsocial/betterflye/ImagenV1.png)
 
 
 ### Pre-requisitos 📋
