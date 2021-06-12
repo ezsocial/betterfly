@@ -4,11 +4,8 @@ _Desafío:
 Construir una app Android que cumpla con los siguientes requisitos:
 ● Tener una pantalla con un listado de ítems. La información del listado se debe
 obtener desde algún servicio en cloud (sugerimos realizar el siguiente ejemplo
-como API: https://rickandmortyapi.com/. Te pedimos que nos contactes
-inmediatamente, antes de comenzar a realizar el desafío, en caso de que no
-quieras utilizar tal ejemplo como guía (de modo que nos cuentes por qué no
-quieres utilizar la API de R & M y cuál te gustaría usar).
-● Tener una pantalla con el detalle del ítem. Cuando se selecciona un item desde el
+como API: https://rickandmortyapi.com/. es el servicio de APIS que provee en ese sitio, se utiliza httpConnection para obtener el JSON.
+● Tener una pantalla con el detalle del ítem para compartir *Share* con otras aplicaciones como correo, redes sociales. Cuando se selecciona un item desde el
 listado, entra a la pantalla del detalle.
 ● Opcional: integrar Firebase con 1 o más de sus herramientas (ejemplo:
 Authentication, Firestore, etc.).
