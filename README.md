@@ -1,13 +1,16 @@
 # BetterFly DEMO
 
-_Desafío:
-Construir una app Android que cumpla con los siguientes requisitos:
-● Tener una pantalla con un listado de ítems. La información del listado se debe
+_
+Se desarrollo una app Android que cumpla con los siguientes requisitos:_
+
+_● Tener una pantalla con un listado de ítems. La información del listado se debe
 obtener desde algún servicio en cloud (sugerimos realizar el siguiente ejemplo
 como API: https://rickandmortyapi.com/. es el servicio de APIS que provee en ese sitio, se utiliza httpConnection para obtener el JSON.
-● Tener una pantalla con el detalle del ítem para compartir *Share* con otras aplicaciones como correo, redes sociales. Cuando se selecciona un item desde el
-listado, entra a la pantalla del detalle.
-● Opcional: integrar Firebase con 1 o más de sus herramientas (ejemplo:
+
+_● Tener una pantalla con el detalle del ítem para compartir *Share* con otras aplicaciones como correo, redes sociales. Cuando se selecciona un item desde el_
+listado, entra a la pantalla del detalle._
+
+_● Opcional: integrar Firebase con 1 o más de sus herramientas (ejemplo:
 Authentication, Firestore, etc.).
 La app se debe subir a algún repositorio para que los desarrolladores de Betterfly puedan
 ver el código (y compilarlo si quieren).
