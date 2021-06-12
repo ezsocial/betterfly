@@ -21,7 +21,7 @@ El desarrollador puede usar lo que quiera de acuerdo a su comodidad._
 ## Screenshots 🚀
 
 
-![Screen1](https://githubcom/ezsocial/betterflye/ImagenV1.png)
+![Screen1](https://github.com/ezsocial/betterfly/blob/main/images/Screenshot_20210612_144100.png)
 
 
 ### Pre-requisitos 📋
